@@ -28,8 +28,8 @@ Mostly Kubernetes these days! But AWS works pretty well too
 ## Will Thames, Skedulo
 ### October 2018
 
-<div class="image-left"><img src="docs/images/ansible.png"></div>
-<div class="image-right"><img src="docs/images/kubernetes.png"></div>
+<div class="image-left"><img src="images/ansible.png"></div>
+<div class="image-right"><img src="images/kubernetes.png"></div>
 
 ---
 
@@ -41,7 +41,7 @@ Mostly Kubernetes these days! But AWS works pretty well too
 - Typical use-cases include healthcare, property management, home
   improvement services
 
-<div class="image-right"><img src=".../docs/images/skedulo.png"></div>
+<div class="image-right"><img src=".../images/skedulo.png"></div>
 
 ---
 
@@ -297,8 +297,8 @@ Making the most of Inventory: <a href="http://willthames.github.io/2017/10/31/ma
 
 # Flat vs hierarchical inventory
 
-<div class="image-left"><image src="docs/images/flat.png"></div>
-<div class="image-right"><image src="docs/images/hierarchical.png"></div>
+<div class="image-left"><image src="images/flat.png"></div>
+<div class="image-right"><image src="images/hierarchical.png"></div>
 
 <aside class="notes">
 Allows variables to be reused across applications in resource
