@@ -41,7 +41,7 @@ Mostly Kubernetes these days! But AWS works pretty well too
 - Typical use-cases include healthcare, property management, home
   improvement services
 
-<div class="image-right"><img src="docs/images/skedulo.png"></div>
+<div class="image-right"><img src=".../docs/images/skedulo.png"></div>
 
 ---
 
